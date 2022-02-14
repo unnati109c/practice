@@ -1,0 +1,3 @@
+feature 1 commit
+Modified, commit 2.
+Feature done, commit 3.
